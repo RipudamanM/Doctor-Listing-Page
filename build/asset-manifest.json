@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Doctor-Listing-Page/static/css/main.2fb407d1.css",
+    "main.js": "/Doctor-Listing-Page/static/js/main.de37544c.js",
+    "index.html": "/Doctor-Listing-Page/index.html",
+    "main.2fb407d1.css.map": "/Doctor-Listing-Page/static/css/main.2fb407d1.css.map",
+    "main.de37544c.js.map": "/Doctor-Listing-Page/static/js/main.de37544c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb407d1.css",
+    "static/js/main.de37544c.js"
+  ]
+}
