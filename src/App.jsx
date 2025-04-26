@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import 'App.css\.';
+import '/src/App.css';
 
 const specialtiesList = [
   "General Physician", "Dentist", "Dermatologist", "Paediatrician", "Gynaecologist", "ENT",
